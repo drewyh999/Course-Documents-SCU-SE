@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/dlab_handout.dir/bits.c.o CMakeFiles/dlab_handout.dir/btest.c.o CMakeFiles/dlab_handout.dir/decl.c.o CMakeFiles/dlab_handout.dir/getopt.c.o CMakeFiles/dlab_handout.dir/tests.c.o  -o dlab_handout 

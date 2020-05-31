@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhuyuanhao/Downloads/Systemlevel_programming/image process project/cache.h
+defs.h
+/Users/zhuyuanhao/Downloads/Systemlevel_programming/image process project/defs.h
+
+/Users/zhuyuanhao/Downloads/Systemlevel_programming/image process project/defs.h
+stdlib.h
+-
+
+/Users/zhuyuanhao/Downloads/Systemlevel_programming/image process project/rotate.c
+stdio.h
+-
+stdlib.h
+-
+defs.h
+/Users/zhuyuanhao/Downloads/Systemlevel_programming/image process project/defs.h
+cache.h
+/Users/zhuyuanhao/Downloads/Systemlevel_programming/image process project/cache.h
+

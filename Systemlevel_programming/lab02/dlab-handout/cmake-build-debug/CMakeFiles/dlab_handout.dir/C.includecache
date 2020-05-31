@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/bits.c
+btest.h
+/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/btest.h
+limits.h
+-
+stdio.h
+-
+
+/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/btest.h
+

@@ -1,0 +1,35 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: memory_mountain - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2C0.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/memory_mountain.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\2010秋冬\csapp\助教的资料\汪泓帆\memory_mountain2\memory_mountain\mountain.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2C0.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2C1.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/memory_mountain.pdb" /debug /machine:I386 /out:"Debug/memory_mountain.exe" /pdbtype:sept 
+".\Debug\clock.obj"
+".\Debug\fcyc2.obj"
+".\Debug\mountain.obj"
+".\Debug\tsc.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP2C1.tmp"
+<h3>Output Window</h3>
+Compiling...
+mountain.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+memory_mountain.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="dlab_handout"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dlab_handout">
+				<Option output="/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug/dlab_handout" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug/Makefile&quot;  VERBOSE=1 dlab_handout"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="dlab_handout/fast">
+				<Option output="/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug/dlab_handout" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug/Makefile&quot;  VERBOSE=1 dlab_handout/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/README">
+			<Option target="dlab_handout"/>
+		</Unit>
+		<Unit filename="/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/bits.c">
+			<Option target="dlab_handout"/>
+		</Unit>
+		<Unit filename="/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/bits.h">
+			<Option target="dlab_handout"/>
+		</Unit>
+		<Unit filename="/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/btest.c">
+			<Option target="dlab_handout"/>
+		</Unit>
+		<Unit filename="/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/btest.h">
+			<Option target="dlab_handout"/>
+		</Unit>
+		<Unit filename="/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/decl.c">
+			<Option target="dlab_handout"/>
+		</Unit>
+		<Unit filename="/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/getopt.c">
+			<Option target="dlab_handout"/>
+		</Unit>
+		<Unit filename="/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/getopt.h">
+			<Option target="dlab_handout"/>
+		</Unit>
+		<Unit filename="/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/tailor.h">
+			<Option target="dlab_handout"/>
+		</Unit>
+		<Unit filename="/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/tests.c">
+			<Option target="dlab_handout"/>
+		</Unit>
+		<Unit filename="/Users/zhuyuanhao/Downloads/Systematical_programming/lab02/dlab-handout/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
