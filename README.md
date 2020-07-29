@@ -5,5 +5,6 @@ Course documents from software engineering in SCU
 
 + System level programming
 + Computer Network
++ R for beginners
 
 Will be updating
